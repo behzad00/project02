@@ -6,10 +6,5 @@ We used Apache Spark technology with PySpark Python library. A Spark Cluster sho
 ## [Analysis](https://github.com/behzad00/project02/blob/main/Analysis.ipynb)
 
 # Cluster Configuration
-
-Note that the output of the code written is provided as a means to give you structure as you write your analysis. For **Parts I, II & III**, you must fill in the blanks (however way you want) to get the output provided in the file. (Mainly columns and aggregations, I don't care about the exact rows). For **Parts III and IV**, you are more flexibility to take the analysis further however you see fit.
-
-## Cluster and Notebook Configs
-
 ![notebook](assets/notebook.png)
 ![cluster](assets/cluster.png)
